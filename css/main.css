@@ -1662,7 +1662,7 @@ li.sale-noti > a {
 
 .block2-labelsale::before {
   background-color: #e65540;
-  content: 'hot';
+  content: 'top';
 }
 
 .block2-labelnew::before {
@@ -2345,6 +2345,14 @@ input.num-product::-webkit-outer-spin-button,
 input.num-product::-webkit-inner-spin-button {
     -webkit-appearance: none;
     margin: 0; 
+}
+
+source{
+  margin-top: 55px;
+}
+
+.center-video{
+  text-align: center;
 }
 
 
